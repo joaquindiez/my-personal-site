@@ -8,8 +8,8 @@
       <div class="subheading mb-5">
         You can usually find me  in Madrid · Chamberi · 
         <a
-          href="mailto:name@email.com"
-        >me@joaquindiez.com</a>
+          href="mailto:me@joaquindiez.com"
+        >me at joaquindiez.com</a>
       </div>
       <p
         class="lead mb-5"
@@ -33,7 +33,7 @@
           rel="noopener noreferrer"
         >Clarity.ai</a>.
       
-       I focus on solving problems, not only technical problems but organization problems, latelly I having more focus in management reposabilities as VP of Engineer 
+       I focus on solving problems, not only technical problems but organization problems, latelly I having more focus in management  as VP of Engineering 
        <a
           href="https://clarity.ai"
           target="_blank"
