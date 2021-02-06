@@ -14,12 +14,6 @@ module.exports = {
         cacheTime: 600000
       }
     },
-    {
-      use: `gridsome-plugin-netlify-cms`,
-      options: {
-        publicPath: `/dist`
-      }
-    },
   ],
   css: {
     loaderOptions: {
