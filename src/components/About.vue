@@ -40,6 +40,19 @@
           rel="noopener noreferrer"
         >Clarity.ai</a>.
        </p>
+
+       <p>
+        
+        Sometimes I write a newsletter, if you are interested 
+        <a
+          href="https://joaquindiezjournal.substack.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >Subscribe here</a>.
+
+       
+
+        </p>
     
       <div class="social-icons">
         <a href="https://linkedin.com/in/joaquindiez" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
